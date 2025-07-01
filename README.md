@@ -60,7 +60,7 @@ With hands-on experience in Spring Boot, system design, and Redis optimization, 
 
 - 📧 Email: **srikantmahapatro000@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/srikantm](https://linkedin.com/in/srikantm)
-- 📍 Location: Bhubaneswar, India
+- 📍 Location: Berhampur, India
 - 📝 [Resume PDF]([https://github.com/Srikantmahapatro0](https://drive.google.com/file/d/1bVtu2zp6noHcw8U8cimeoXoJehBwWLF7/view?usp=drive_link))
 
 ---

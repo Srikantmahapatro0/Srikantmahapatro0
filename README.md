@@ -30,11 +30,30 @@ With hands-on experience in Spring Boot, system design, and Redis optimization, 
 - Thymeleaf templates for customizable output  
 - Redownloads are supported to prevent redundant work
 
-#### 🎮 [Tic Tac Toe Game (OOP)](https://github.com/Srikantmahapatro0/Tic-Tac-Toe)  
-**Tech Stack:** Java, OOP, Strategy Pattern  
-- Fully OOP-based board game with undo, bot, and winning logic  
-- Strategy design pattern for extensibility (row, diagonal, column)
+#### 🎟️ BookMyShow Clone – Backend (Spring Boot)
+Tech Stack: Java 17+, Spring Boot, Spring Data JPA, Hibernate, Maven, H2/MySQL
 
+Fully functional backend clone of BookMyShow built using Spring Boot and JPA
+
+Includes user signup, movie scheduling, seat booking, and dynamic pricing logic
+
+Secure password handling, entity relationships, and modular service layers
+
+The booking system handles seat locking, status tracking, and payment flow
+
+🔑 Highlights:
+
+BCrypt password encryption
+
+Entity design for Shows, Screens, Seats, and Bookings
+
+15-minute seat locking logic to prevent double-booking
+
+Serializable isolation for consistent transactions
+
+Easily scalable into microservices
+
+📁 See Folder Structure & APIs in README
 ---
 
 ### 🧰 Tech Stack
